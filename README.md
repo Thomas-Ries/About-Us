@@ -18,4 +18,4 @@ It's not responsive.
 
 # Screenshots
 
-![alt tag](https://user-images.githubusercontent.com/73991398/109138864-21ef6b00-775b-11eb-8818-891df62900b7.PNG)
+![alt tag](https://user-images.githubusercontent.com/73991398/109470299-823e1f80-7a6f-11eb-9053-646fe3552074.PNG)
