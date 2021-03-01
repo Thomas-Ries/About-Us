@@ -1,4 +1,4 @@
-# stickyNavbar
+# About Us
 
 Small piece of code for training
 
